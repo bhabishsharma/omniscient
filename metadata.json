@@ -1,0 +1,6 @@
+{
+  "name": "Omniscient",
+  "description": "An interactive digital visual space presenting the creative life stories, photographic masteries, personal chapters, and masterclasses of curator Sandesh Poudel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
